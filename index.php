@@ -4,4 +4,5 @@
  * User: taohaisong
  * Date: 14/12/3
  * Time: 下午2:39
- */ 
+ */
+echo 1;
